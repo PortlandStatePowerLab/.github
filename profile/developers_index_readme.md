@@ -22,6 +22,6 @@ This directory provides visibility into our PEG team, and the specific projects 
 
 To keep this directory accurate, please ensure any changes to project assignments or contact methods are updated here:
 
-1. Edit this file (`profile/individual-index-readme.md`).
+1. Edit this file (`profile/developers_index_readme.md`).
 2. Update or add your row in the table above.
 3. Commit the changes directly or open a quick Pull Request.
