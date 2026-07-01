@@ -8,6 +8,7 @@ This directory provides visibility into our PEG team, and the specific projects 
 | :--- | :--- | :--- |
 | **Blake** | WHs Conformance & Compliance Testing | `blakee@pdx.edu` |
 | **Jeff** | WHs Conformance & Compliance Testing | `jdinsmor@pdx.edu` |
+| **Josephine** | NEEA | `jdeline@pdx.edu` |
 | **Othman** | NEEA | `mothman@pdx.edu` |
 | **Alex** | NEEA |  `wardwell@pdx.edu` |
 | **Thomas** | NEEA | `tmetzler@pdx.edu` |
