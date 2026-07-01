@@ -14,12 +14,12 @@ If you are new to our workflow or need a refresher on GitHub best practices, ple
 
 ## 3. Team & Member Directory (Index)
 To see who is currently on the team and what specific projects they are leading:
-* 👥 **Read the [Individual Index README](./individual-index-readme.md)**  
+* **Read the [Developers Index README](./developers_index_readme.md)**  
   *Contains the names of our engineers and the specific projects they are currently working on.*
 
 ## 4. Active Projects & Contributors
 To explore our active projects and find the right points of contact for collaboration:
-* 🚀 **Read the [Project README](./project-readme.md)**  
+* **Read the [Projects Index README](./projects_index_readme.md)**
   *Contains a breakdown of all active projects alongside the names of the people contributing to them.*
 
 ## 5. Repository Naming Conventions
