@@ -2,7 +2,7 @@
 
 This directory provides visibility into our PEG team, and the specific projects they are currently focused on. Use this page to find out who is working on what and locate the right point of contact.
 
-## 🛠️ Developers' Projects
+## Developers' Projects
 
 | Name | Projects | Contact (E-mail)|
 | :--- | :--- | :--- |
@@ -18,7 +18,7 @@ This directory provides visibility into our PEG team, and the specific projects 
 | **Tylor** | DOE & PGE | `tslay@pdx.edu` |
 | **Dr. Bass** | Admin | -- |
 
-## 🔄 Keeping this Directory Updated
+## Keeping this Directory Updated
 
 To keep this directory accurate, please ensure any changes to project assignments or contact methods are updated here:
 
