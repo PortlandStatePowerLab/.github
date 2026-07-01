@@ -16,8 +16,9 @@ This document maps our major engineering projects, their core goals, the specifi
 
 ## 2. NEEA (Northwest Energy Efficiency Alliance)
 * **Description:** Collaboration projects with regional energy efficiency research, data modeling, and smart grid optimization efforts for the Pacific Northwest.
-* **Core Contributors:** Othman, Alex, Thomas, Jeff, Dana
+* **Core Contributors:** Josephine, Othman, Alex, Thomas, Jeff, Dana
 * **Associated Repositories:**
+  * Add Josephine stuff here
   * [thomas_neea_flex_load_26](https://github.com/PortlandStatePowerLab/Thomas_NEEA_Flex_Load.git) - Simulating various grid services using EVs, HVAC, heat pump water heaters (hpwh) with OCHRE simulation environment
   * [dana_grid_services_simulation_hpwh_26](https://github.com/PortlandStatePowerLab/OCHRE_Run_Scripts.git)  - Simulationg various grid services using hpwh with OCHRE simulation environment
   * [alex-neea-flex-load-calculator_26](https://github.com/PortlandStatePowerLab/Alex-NEEA-Flex-Load-Calculator.git) - Developing a systematic approach to leverage specific flex loads to each grid service.
@@ -37,13 +38,13 @@ This document maps our major engineering projects, their core goals, the specifi
 
 ---
 
-## ⚙️ 4. Administration & Oversight
+## 4. Administration & Oversight
 * **Description:** Overall management, grant administration, academic alignment, and operational support for the entire lab engineering ecosystem.
 * **Core Lead:** Dr. Bass
 
 ---
 
-## 🛠️ Linking Repositories to Projects
+## Linking Repositories to Projects
 
 When creating a new repository that belongs to one of these funders, please ensure you update this file:
 1. Locate the correct project section above.
